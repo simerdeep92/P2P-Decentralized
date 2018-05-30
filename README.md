@@ -7,9 +7,9 @@ General Details:
 The project is coded in Python 2.7.10 and requires a supported OS running this (or a compatible 2.x) Python version.
 
 The directory consists of following files:
-a.	server.py (centralized P2S Server implementation)
-b.	peer.py  (a P2S Peer implementation with menu driven program to allow peer to make requests to server or other peers)
-c.	request.py (Contains code to create and send requests to server or peer from a peer.)
+*	server.py (centralized P2S Server implementation)
+*	peer.py  (a P2S Peer implementation with menu driven program to allow peer to make requests to server or other peers)
+*	request.py (Contains code to create and send requests to server or peer from a peer.)
 
 Starting the Server:
 Enter the following command on the command line window: 
